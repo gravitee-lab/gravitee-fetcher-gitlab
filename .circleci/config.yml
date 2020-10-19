@@ -14,7 +14,7 @@ parameters:
 
 orbs:
   # secrethub: secrethub/cli@1.0.0
-  gravitee: orbinoid2/gravitee@0.0.7
+  gravitee: orbinoid2/gravitee@0.0.9
   # gravitee: gravitee-io/gravitee@0.0.1
 
 workflows:
